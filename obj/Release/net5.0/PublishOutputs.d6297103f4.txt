@@ -1,0 +1,8 @@
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\DocRandomizer.exe
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\DocRandomizer.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\DocRandomizer.deps.json
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\DocRandomizer.runtimeconfig.json
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\DocRandomizer.pdb
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\Xceed.Document.NET.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\Xceed.Words.NET.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Release\net5.0\publish\System.IO.Packaging.dll

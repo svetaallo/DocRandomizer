@@ -1,0 +1,40 @@
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.exe
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.deps.json
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.runtimeconfig.json
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.runtimeconfig.dev.json
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.dll
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\ref\DocRandomizer.dll
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.pdb
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.csproj.AssemblyReference.cache
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.AssemblyInfoInputs.cache
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.AssemblyInfo.cs
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.dll
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\ref\DocRandomizer.dll
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.pdb
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.genruntimeconfig.cache
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.csproj.CopyComplete
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\Xceed.Document.NET.dll
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\Xceed.Words.NET.dll
+C:\Users\hronn\source\repos\DocRandomizer\DocRandomizer\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.exe
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.deps.json
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.runtimeconfig.json
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.runtimeconfig.dev.json
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\ref\DocRandomizer.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\DocRandomizer.pdb
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\Xceed.Document.NET.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\Xceed.Words.NET.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.csproj.AssemblyReference.cache
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.AssemblyInfoInputs.cache
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.AssemblyInfo.cs
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.csproj.CopyComplete
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\ref\DocRandomizer.dll
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.pdb
+C:\Users\chern\OneDrive\Рабочий стол\DocRandomizer\DocRandomizer\obj\Debug\net5.0\DocRandomizer.genruntimeconfig.cache

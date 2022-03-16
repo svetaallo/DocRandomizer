@@ -1,0 +1,8 @@
+C:\Users\chern\OneDrive\Рабочий стол\app\DocRandomizer.exe
+C:\Users\chern\OneDrive\Рабочий стол\app\DocRandomizer.dll
+C:\Users\chern\OneDrive\Рабочий стол\app\DocRandomizer.deps.json
+C:\Users\chern\OneDrive\Рабочий стол\app\DocRandomizer.runtimeconfig.json
+C:\Users\chern\OneDrive\Рабочий стол\app\DocRandomizer.pdb
+C:\Users\chern\OneDrive\Рабочий стол\app\Xceed.Document.NET.dll
+C:\Users\chern\OneDrive\Рабочий стол\app\Xceed.Words.NET.dll
+C:\Users\chern\OneDrive\Рабочий стол\app\System.IO.Packaging.dll
